@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KreatureFX
+- 👋 Hello there, I’m still newbie over here
 - 👀 I’m interested in Social Media Managing, Web Development, Graphics Designing and Machine Learning
 - 🌱 I’m currently learning ways to survive with this 60's soul 
 - 💞️ I’m looking to collaborate on building websites
