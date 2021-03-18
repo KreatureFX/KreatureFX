@@ -1,11 +1,20 @@
-- 👋 Hello there, I’m still newbie over here
-- 👀 I’m interested in Social Media Managing, Web Development, Graphics Designing and Machine Learning
-- 🌱 I’m currently learning ways to survive with this 60's soul 
-- 💞️ I’m looking to collaborate on building websites
+- 👋 Hello there, I’m still a newbie over here
+- 
+- ⚡ ***I’m interested in Social Media Managing, Web Development, Graphics Designing and Machine Learning***
+- 
+- 🌱 *I’m currently learning new ways to survive with this 60's soul* 
+- 
+- 💞️ **I’m looking to collaborate on building websites**
+- 
+- 💬 You can ask me anything about Adobe Photoshop, Illustrator, Premiere Pro and Beatboxing
+- 
+- 🤔 I'm looking for help with Machine Learning, React.js, Node.js
+
 - 📫 I'm always active on Social Media       
-     https://www.facebook.com/kreaturefx/
--    https://www.instagram.com/kreaturecaged_fx/
--    https://www.linkedin.com/in/kreaturefxofficial/
+-    [Facebook](https://www.facebook.com/kreaturefx/)
+-    [Instagram](https://www.instagram.com/kreaturecaged_fx/)
+-    [Linkedin](https://www.linkedin.com/in/kreaturefxofficial/)
+-    [Youtube](https://www.youtube.com/c/BeatboxBangladeshOfficial/videos)
 
 <!---
 KreatureFX/KreatureFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
