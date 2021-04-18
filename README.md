@@ -1,13 +1,13 @@
 - 👋 Hello there, I’m still a newbie over here
-- 
+ 
 - ⚡ ***I’m interested in Social Media Managing, Web Development, Graphics Designing and Machine Learning***
-- 
+ 
 - 🌱 *I’m currently learning new ways to survive with this 60's soul* 
-- 
+ 
 - 💞️ **I’m looking to collaborate on building websites**
-- 
+ 
 - 💬 You can ask me anything about Adobe Photoshop, Illustrator, Premiere Pro and Beatboxing
-- 
+
 - 🤔 I'm looking for help with Machine Learning, React.js, Node.js
 
 - 📫 I'm always active on Social Media       
