@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m still a newbie over here
  
-- ⚡ ***I’m interested in Social Media Managing, Web Development, 3D modelling and Machine Learning***
+- ⚡ ***I’m interested in Digital Marketing, Web Development, Cloud Architecture and Machine Learning***
  
 - 🌱 *I’m currently learning new ways to survive with this 60's soul* 
  
@@ -8,7 +8,7 @@
  
 - 💬 You can ask me anything about Adobe Photoshop, Illustrator, Premiere Pro, Blender, Music Production, Search Engine Optimization and Beatboxing
 
-- 🤔 I'm looking for help with Machine Learning, React.js, Node.js
+- 🤔 I'm looking for help with Machine Learning, React.js, Node.js, Python & Web 3.0
 
 - 📫 I'm always active on Social Media       
 -    [Facebook](https://www.facebook.com/kreaturefx/)
