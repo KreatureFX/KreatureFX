@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Beatbox Bangladesh](https://beatboxbangladesh.com/), [Kreature Abstract Diagram FX](https://www.youtube.com/@KreatureFX)
 
-- 🌱 I’m currently learning **Flutter, Dart, GO, SwiftUI, Cloud Architecture, Software Quality Assurance, Cyber Security Operations, etc.**
+- 🌱 I’m currently learning **Flutter, Dart, GO, Linux, Cloud Architecture, Software Quality Assurance, Cyber Security Operations, etc.**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
