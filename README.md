@@ -3,10 +3,8 @@ KreatureFX/KreatureFX is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e478pl0rrucqnancdxhyi5supmtrheadxi4gc2guh45&rid=giphy.gif&ct=g" width="300"/>
-</div>
-
-<div <video class="giphy-video" width="776" height="438" autoplay="" playsinline="" src="https://media3.giphy.com/media/cMQ3bmNFjLfpqjwULz/giphy480p.mp4?cid=ecf05e47vfd0m927ycjwn7uhhbuy5iulnkxw4fye9qc02fgn&amp;rid=giphy480p.mp4&amp;ct=v" data-giphy-id="cMQ3bmNFjLfpqjwULz"></video>
+  <img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e478pl0rrucqnancdxhyi5supmtrheadxi4gc2guh45&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://media0.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif?cid=ecf05e4755ttjta85izqob0huvfrz5xg6k72n2g1sc4t3hp3&rid=giphy.gif&ct=g" width=""1000"/>
 </div>
 
 <div id="badges" align="center">
