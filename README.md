@@ -3,7 +3,10 @@ KreatureFX/KreatureFX is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/MvHnr4NSZC0IU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-animation-tech-MvHnr4NSZC0IU">via GIPHY</a></p>" width="100"/>
+  <img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e478pl0rrucqnancdxhyi5supmtrheadxi4gc2guh45&rid=giphy.gif&ct=g" width="300"/>
+</div>
+
+<div <video class="giphy-video" width="776" height="438" autoplay="" playsinline="" src="https://media3.giphy.com/media/cMQ3bmNFjLfpqjwULz/giphy480p.mp4?cid=ecf05e47vfd0m927ycjwn7uhhbuy5iulnkxw4fye9qc02fgn&amp;rid=giphy480p.mp4&amp;ct=v" data-giphy-id="cMQ3bmNFjLfpqjwULz"></video>
 </div>
 
 <div id="badges" align="center">
@@ -26,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=600 height=300/>  
+  <img src="https://media2.giphy.com/media/Ylg6sBvmMe6Ha4qmG2/giphy.gif?cid=ecf05e47op1okocucml1u4da1vgxkn9okvpug9uipaj2evd0&rid=giphy.gif&ct=g" width=600 height=300/>  
 </div>
   
 ---
