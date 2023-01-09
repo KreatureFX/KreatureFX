@@ -3,7 +3,7 @@ KreatureFX/KreatureFX is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="100"/>
+  <img src="<iframe src="https://giphy.com/embed/MvHnr4NSZC0IU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-animation-tech-MvHnr4NSZC0IU">via GIPHY</a></p>" width="100"/>
 </div>
 
 <div id="badges" align="center">
