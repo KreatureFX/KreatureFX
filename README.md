@@ -90,11 +90,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hello there, I’m still a newbie over here
  
-- 🌱 ***I’m currently investigating new ways to survive with this 60's soul*** 
+- 🌱 ***I’m currently investigating new ways to survive with this 90's soul*** 
  
 - 💬 DM for Enquiries
 
 - 📫 I'm always active on Social Media       
 -    [Facebook](https://www.facebook.com/kreaturefx/)
 -    [Instagram](https://www.instagram.com/kreaturecaged_fx/)
--    ### :writing_hand: Blog Posts :
+-    ### :writing_hand: Let's have a chat!
