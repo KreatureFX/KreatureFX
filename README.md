@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://twitter.com/Kreaturefx">
     <img src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
   </a>
-   <a href="(https://www.youtube.com/c/kreatureabstractdiagramfx)">
+   <a href="(https://www.youtube.com/@KreatureFX)">
     <img src="https://img.shields.io/badge/Youtube-black?logo=youtube&logoColor=red&style=for-the-badge" alt="YouTube Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=KreatureFX&color=brightgreen&label=Profile+Views&style=for-the-badge" alt="Profile Views"/>
