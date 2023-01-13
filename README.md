@@ -82,12 +82,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KreatureFX&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KreatureFX&theme=tokyonight&fire=DD2727)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KreatureFX&layout=compact&theme=vision-friendly-dark)](https://github.com/KreatureFX/github-readme-stats)
                                                                                                                                   
                                                                                                                                   
-[![Trophy](https://github-profile-trophy.vercel.app/KreatureFXryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=KreatureFX&ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 - 👋 Hello there, I’m still a newbie over here
